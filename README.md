@@ -1,4 +1,4 @@
-# Getting Started with Create React App -1.4 - SNS activation #Successful. Testing with zensar.com email. 
+# Getting Started with Create React App -1.4 - SNS activation #Successful. Testing with zensar.com email + SMS notification testing. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
