@@ -1,4 +1,4 @@
-# Getting Started with Create React App -1.2
+# Getting Started with Create React App -1.3 - SNS activation. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
